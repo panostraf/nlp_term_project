@@ -1,0 +1,10 @@
+venv/
+*.txt
+*.ppt
+*.pptx
+*.png
+data/
+draft/
+__pycache__/
+*.jpeg
+
